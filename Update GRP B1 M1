@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T20:34:25.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="-jlUs0Qw7ZZBkTnjFhw-" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T20:39:58.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="_n_xlvjuN2cNc_ve8IhV" version="21.6.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2074" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,48 @@
         </mxCell>
         <mxCell id="hwR0YG4C-KacG1f-SR3u-9" value="End of level 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hwR0YG4C-KacG1f-SR3u-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hwR0YG4C-KacG1f-SR3u-11" target="hwR0YG4C-KacG1f-SR3u-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwR0YG4C-KacG1f-SR3u-11" value="Start&lt;br&gt;On walkway" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hwR0YG4C-KacG1f-SR3u-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hwR0YG4C-KacG1f-SR3u-12" target="hwR0YG4C-KacG1f-SR3u-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwR0YG4C-KacG1f-SR3u-12" value="Path to broken path" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hwR0YG4C-KacG1f-SR3u-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hwR0YG4C-KacG1f-SR3u-14" target="hwR0YG4C-KacG1f-SR3u-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwR0YG4C-KacG1f-SR3u-14" value="Broken wooden plank crossing " style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hwR0YG4C-KacG1f-SR3u-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hwR0YG4C-KacG1f-SR3u-16" target="hwR0YG4C-KacG1f-SR3u-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwR0YG4C-KacG1f-SR3u-16" value="Path to bridge" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hwR0YG4C-KacG1f-SR3u-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hwR0YG4C-KacG1f-SR3u-18" target="hwR0YG4C-KacG1f-SR3u-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwR0YG4C-KacG1f-SR3u-18" value="Bridge crossing to other side" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hwR0YG4C-KacG1f-SR3u-20" value="Path leading uphill to final level" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hwR0YG4C-KacG1f-SR3u-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hwR0YG4C-KacG1f-SR3u-23" target="hwR0YG4C-KacG1f-SR3u-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwR0YG4C-KacG1f-SR3u-23" value="Start&lt;br&gt;Path near river" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hwR0YG4C-KacG1f-SR3u-24" value="Pathway near river with trees on one side, leading to river crossing" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="760" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
