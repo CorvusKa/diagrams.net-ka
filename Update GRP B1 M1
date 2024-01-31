@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T18:30:51.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="qJZEhs_K-79CKPkyms7v" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T20:34:25.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="-jlUs0Qw7ZZBkTnjFhw-" version="21.6.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2074" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,42 +6,42 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="hwR0YG4C-KacG1f-SR3u-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hwR0YG4C-KacG1f-SR3u-0" target="hwR0YG4C-KacG1f-SR3u-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="920" as="targetPoint" />
+            <mxPoint x="80" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hwR0YG4C-KacG1f-SR3u-0" value="Start&lt;br&gt;Cabin" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="1030" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hwR0YG4C-KacG1f-SR3u-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hwR0YG4C-KacG1f-SR3u-2" target="hwR0YG4C-KacG1f-SR3u-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hwR0YG4C-KacG1f-SR3u-2" value="Path to first river" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="870" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hwR0YG4C-KacG1f-SR3u-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hwR0YG4C-KacG1f-SR3u-3" target="hwR0YG4C-KacG1f-SR3u-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="750" as="targetPoint" />
+            <mxPoint x="250" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hwR0YG4C-KacG1f-SR3u-3" value="River crossing" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="710" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hwR0YG4C-KacG1f-SR3u-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hwR0YG4C-KacG1f-SR3u-6" target="hwR0YG4C-KacG1f-SR3u-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="910" as="targetPoint" />
+            <mxPoint x="245" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hwR0YG4C-KacG1f-SR3u-6" value="Path through forest to another river" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="710" width="80" height="80" as="geometry" />
+          <mxGeometry x="200" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hwR0YG4C-KacG1f-SR3u-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hwR0YG4C-KacG1f-SR3u-8" target="hwR0YG4C-KacG1f-SR3u-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hwR0YG4C-KacG1f-SR3u-8" value="River crossing 2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="870" width="80" height="80" as="geometry" />
+          <mxGeometry x="200" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hwR0YG4C-KacG1f-SR3u-9" value="End of level 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="1030" width="90" height="80" as="geometry" />
+          <mxGeometry x="200" y="360" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
